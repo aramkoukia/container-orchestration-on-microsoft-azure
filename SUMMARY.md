@@ -5,9 +5,9 @@
 * [Why Container Orchestrators?](why-do-we-need-container-orchestrators.md)
 * [Container Orchestrator Options](different-orchestrtors.md)
 * [Container Orchestrator Support on Azure](orchestrators-on-azure.md)
-* On-Premise support
+* [Container Orchestrator On-Premise support](on-premise-support.md)
+* [On-Premise support](on-premise-support.md)
+* [On-Premise support](on-premise-support.md)
 * [Docker Swarm on Azure](docker-swarm-on-azure.md)
-* [DC/OS on Azure](dcos-on-azure.md)
-* Kubernetes on Azure
 * On-Premise support
 
