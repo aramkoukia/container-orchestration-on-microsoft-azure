@@ -1,4 +1,4 @@
-# Why do we need Container Orchestrators?
+# Why Container Orchestrators?
 
 
 
