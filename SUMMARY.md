@@ -6,8 +6,7 @@
 * [Container Orchestrator Options](different-orchestrtors.md)
 * [Container Orchestrator Support on Azure](orchestrators-on-azure.md)
 * [Container Orchestrator On-Premise support](on-premise-support.md)
-* [On-Premise support](on-premise-support.md)
-* [On-Premise support](on-premise-support.md)
 * [Docker Swarm on Azure](docker-swarm-on-azure.md)
-* On-Premise support
+* [Kubernetes on Azure](kubernetes-on-azure.md)
+* [Service Fabric on Azure](service-fabric-on-azure.md)
 
