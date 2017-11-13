@@ -1,3 +1,6 @@
-# My Awesome Book
+# Container Orchestrations on Microsoft Azure
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+With the rise of interest in using Containers specially Docker as an industry standard for application containerization, the idea is that you should be able to deploy your application in any environment, so why not Azure? 
+
+
+
