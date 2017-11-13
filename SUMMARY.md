@@ -6,7 +6,7 @@
 * [Different Orchestrtors](different-orchestrtors.md)
 * [Orchestrators on Azure](orchestrators-on-azure.md)
 * Docker Swarm on Azure
-* DC/OS on Azure
+* [DC/OS on Azure](dcos-on-azure.md)
 * Kubernetes on Azure
 * Service Fabric on Azure
 * On-Premise support
