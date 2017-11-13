@@ -6,12 +6,27 @@ Though, the focus of this book is not to convince you that you actually need to 
 
 * #### Saving Money on Infrastructure
 
-* #### Eliminating the "Works on my machine" situation 
+#### TBD
+
+* #### Eliminating the "Works on my machine" situation
+
+#### TBD
 
 * #### Faster Deployments
-* #### Faster Environment Preparation 
+
+#### TBD
+
+* #### Faster Environment Preparation
+
+#### TBD
+
 * #### Isolation
+
+#### TBD
+
 * #### Security
+
+#### TBD
 
 
 
