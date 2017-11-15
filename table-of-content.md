@@ -5,7 +5,7 @@
 * Understanding Azure's solutions for Container Orchestrator
 
 * Kubernetes on Azure Container Service
-** Kubernetes Cluster Architecture
+* * Kubernetes Cluster Architecture
 ** Creating a Kubernetes Cluster in Azure Container service
 ** Deploy your application to Kubernetes Cluster in Azure ACS
 ** Zero Down Time deployment to Kubernetes Cluster in Azure ACS
