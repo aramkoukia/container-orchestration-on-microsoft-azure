@@ -1,5 +1,6 @@
 # Summary
 
+* [Cover](cover.md)
 * [Introduction](README.md)
 * [Table of content](table-of-content.md)
 * [Why Containers?](chapter1.md)
@@ -9,5 +10,5 @@
 * [Container Orchestrator On-Premise support](on-premise-support.md)
 * [Docker Swarm on Azure](docker-swarm-on-azure.md)
 * [Kubernetes on Azure](kubernetes-on-azure.md)
-* Table of content
+* Cover
 
