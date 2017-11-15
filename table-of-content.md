@@ -9,6 +9,7 @@
 * Kubernetes Cluster Architecture
 
 * Creating a Kubernetes Cluster in Azure Container service
+
 * Deploy your application to Kubernetes Cluster in Azure ACS
 * Zero Down Time deployment to Kubernetes Cluster in Azure ACS
 * Scaling your application in Kubernetes Cluster
@@ -34,6 +35,7 @@
 * Creating a Docker Swarm Cluster in Azure Container service
 
 * Deploy your application to Docker Swarm Cluster in Azure ACS
+
 * Zero Down Time deployment to Docker Swarm Cluster in Azure ACS
 * Scaling your application in Docker Swarm Cluster
 
@@ -48,11 +50,13 @@
 * Creating an Azure Service Fabric instance
 
 * Deploy your container to Azure Service fabric
+
 * Zero Down Time deployment to Service Fabric Cluster
-* Scaling your application in Service Fabric 
+* Scaling your application in Service Fabric
 
 * Azure Service Fabric Web User Interface
 
-* 
+
+
 
 
