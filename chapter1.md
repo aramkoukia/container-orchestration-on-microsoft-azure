@@ -1,6 +1,6 @@
 # Chapter 1: Containers and Container Clusters
 
-# Why Containers?
+## Why Containers?
 
 People in software industry have been talking about Containers for while now and there are certainly a lot of benefits when we use them.
 
@@ -30,7 +30,7 @@ Though, the focus of this book is not to convince you that you actually need to 
 
 #### TBD
 
-# Why Container Orchestrators?
+## Why Container Orchestrators?
 
 While containers are great, when we can too many of them running on our infrastructure, it will be hard to manage and monitor things in each environment, and that is where the need for Orchestrators are more obvious.
 
