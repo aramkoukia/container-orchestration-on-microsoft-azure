@@ -10,4 +10,5 @@
 * [Ch 3: Managed Kubernetes in Azure](different-orchestrtors.md)
 * [Ch 4: Docker Swarm in Azure Container Service](docker-swarm-in-azure-container-service.md)
 * [Ch 5: Azure Service Fabric](orchestrators-on-azure.md)
+* [Ch 6: Service Fabric, Kubernetes, Docker Swarm Features comparison](ch-6-service-fabric-kubernetes-docker-swarm-features-comparison.md)
 
