@@ -1,7 +1,11 @@
 * Overview
+
 * Why do you need Containers?
+
 * Why do you need Container Orchestrators?
+
 * Container Orchestrator Alternatives
+
 * Understanding Azure's solutions for Container Orchestrator
 
 * Kubernetes on Azure Container Service
@@ -11,7 +15,9 @@
 * Creating a Kubernetes Cluster in Azure Container service
 
 * Deploy your application to Kubernetes Cluster in Azure ACS
+
 * Zero Down Time deployment to Kubernetes Cluster in Azure ACS
+
 * Scaling your application in Kubernetes Cluster
 
 * Kubernetes Cluster Web User Interface
@@ -37,6 +43,7 @@
 * Deploy your application to Docker Swarm Cluster in Azure ACS
 
 * Zero Down Time deployment to Docker Swarm Cluster in Azure ACS
+
 * Scaling your application in Docker Swarm Cluster
 
 * Docker Swarm Web User Interface
@@ -52,11 +59,10 @@
 * Deploy your container to Azure Service fabric
 
 * Zero Down Time deployment to Service Fabric Cluster
+
 * Scaling your application in Service Fabric
 
 * Azure Service Fabric Web User Interface
-
-
 
 
 
