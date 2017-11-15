@@ -5,7 +5,7 @@
 * [What you will learn](what-you-will-learn.md)
 * [Table of content](table-of-content.md)
 * [Introduction](README.md)
-* [Why Containers?](chapter1.md)
+* [Containers and Container Clusters](chapter1.md)
 * [Why Container Orchestrators?](why-do-we-need-container-orchestrators.md)
 * [Container Orchestrator Options](different-orchestrtors.md)
 * [Container Orchestrator Support on Azure](orchestrators-on-azure.md)
